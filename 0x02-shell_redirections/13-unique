@@ -1,2 +1,2 @@
 #!/bin/bash
-cat input.txt | ./unique_words.py
+sort | uniq -u
